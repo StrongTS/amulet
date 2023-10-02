@@ -1,3 +1,6 @@
-# amulet
+# amulet Flutter HomePage
 
-A new Flutter project.
+Basic HomePage Amulet Flutter 2023
+
+
+Credit: https://www.youtube.com/watch?v=FrZEj5Izf7E&ab_channel=SmartDev
